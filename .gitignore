@@ -1,0 +1,16 @@
+# Entornos
+fl_env/
+.venv/
+venv/
+.vscode
+
+# Jupyter
+.ipynb_checkpoints/
+
+# Datos (no subir datos crudos a GitHub)
+data/raw/
+data/processed/
+
+# Archivos de sistema
+.DS_Store
+Thumbs.db

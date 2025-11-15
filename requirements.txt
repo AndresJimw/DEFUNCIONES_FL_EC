@@ -1,0 +1,15 @@
+pandas
+numpy
+scikit-learn
+
+matplotlib
+seaborn
+
+jupyter
+jupyterlab
+ipykernel
+nbconvert
+
+tqdm
+pyyaml
+openpyxl
